@@ -1,0 +1,7 @@
+emoji==2.12.1
+matplotlib==3.8.0
+pandas==2.2.2
+streamlit==1.36.0
+urlextract==1.9.0
+wordcloud==1.9.3
+streamlit==1.36.0
